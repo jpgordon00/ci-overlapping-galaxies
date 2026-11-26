@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "overlapping-galaxies",
+  "repository": "https://github.com/jpgordon00/ci-overlapping-galaxies",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/overlapping-galaxies/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/overlapping-galaxies",
+  "catalog_commit": "71c3eaf85a898f102d915836adf9ad449134e110"
+}
